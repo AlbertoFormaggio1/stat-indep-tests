@@ -5,6 +5,9 @@ Knowing if the 2 variables are independent may be useful for several reasons lik
 There is much confusion about these statistical tests and what "one-tailed" and "two-tailed" mean or when each of these tests should be applied.
 This notebook, will explore in detail these tests and the variants that can be found.
 
+We will first implement our own versions of these 2 tests and then compare the results found with the results provided by the function implemented in the scipy library.
+
+
 Of course, some theoretical knowledge must be known in advance in order to understand the content:
 - Fisher's test: Exact statistical test which is mainly used when the contingency table has the shape (2,2) and the expected counts for at least one element are $\leq 5$.
 - $\chi^2$ test: Statistical test which makes an approximation between the data obtained from the statistics and the $\chi^2$ distribution with the appropriate number of degrees of freedom.
