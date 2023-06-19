@@ -13,4 +13,4 @@ When talking about statistical tests you may consider:
 - one-tailed tests: A one-tailed test is such that only one side of the distribution function is considered. You are interested only in whether the values are either greater or lower than the expected counts.
 - two-tailed tests: A two-tailed statistical test looks for dependency on both sides of the distribution function.
 
-![one-tailed vs two-tailed](./one.tailed-vs-two-tailed-test.jpg)
+![one-tailed vs two-tailed](./one-tailed-vs-two-tailed-test.jpg)
